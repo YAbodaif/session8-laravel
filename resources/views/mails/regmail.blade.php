@@ -1,0 +1,2 @@
+<h3>Welcome {{$name}}</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit non dignissimos voluptates totam numquam iusto officiis, fugit, delectus maxime ipsam omnis in ab at. Sint aliquid repellat nostrum recusandae. Ipsa!</p>
